@@ -3,7 +3,7 @@ body{
 
 }
 .parent-div{
-    background-image: url(../images/pattern-background-desktop.svg);
+    background-image: url(./starter-code/images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-color: skyblue;
     height:600px;
@@ -14,7 +14,7 @@ body{
     padding-top: 40px;
 }
 .first-div{
-    background-image: url(../images/illustration-hero.svg);
+    background-image: url(./starter-code/images/illustration-hero.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
